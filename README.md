@@ -7,7 +7,7 @@ To protect intellectual property while maintaining an accessible showcase, my co
 ## View the Portfolio
 Click the link below to open the interactive directory. You can click on any project in the Table of Contents to jump directly to its schematics, layer stackups, and 3D board visualizations:
 
-👉 **[Click Here to View My PCB Projects Portfolio (View-Only)] (Wait until i paste_GOOGLE_DRIVE_LINK_HERE)**
+👉 **[Click Here to View My PCB Projects Portfolio (View-Only)] (GOOGLE DRIVE LINK AVAILABLE SOON)**
 
 ---
 
