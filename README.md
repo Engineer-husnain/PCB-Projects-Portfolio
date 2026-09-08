@@ -29,7 +29,7 @@ Here is a quick overview of what you will find inside the main document:
 
 ## Contact & Professional Links
 If you would like to discuss my work, freelance opportunities, or engineering roles, feel free to reach out:
-* **LinkedIn:** [[Muhammad Husnain-LinkedIn](https://www.linkedin.com/in/engineerhusnain/)]
+* **LinkedIn:** [[My LinkedIn Profile](https://www.linkedin.com/in/engineerhusnain/)]
 * **Fiverr:** [[My Fiverr Profile](https://www.fiverr.com/s/RVm8xmw)]
 * **Upwork:** [[My Upwork Profile](https://www.upwork.com/freelancers/~016b10d52ec70683ff?mp_source=share)]
 * **Email:** muhammadhusnain0013.com
