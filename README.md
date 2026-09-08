@@ -32,4 +32,4 @@ If you would like to discuss my work, freelance opportunities, or engineering ro
 * **LinkedIn:** [[My LinkedIn Profile](https://www.linkedin.com/in/engineerhusnain/)]
 * **Fiverr:** [[My Fiverr Profile](https://www.fiverr.com/s/RVm8xmw)]
 * **Upwork:** [[My Upwork Profile](https://www.upwork.com/freelancers/~016b10d52ec70683ff?mp_source=share)]
-* **Email:** muhammadhusnain0013.com
+* **Email:** muhammadhusnain0013@gmail.com
